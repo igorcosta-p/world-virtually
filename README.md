@@ -1,2 +1,2 @@
-# world-virtually
- Primerio repositorio versionado.
+# world virtually
+ Primerio repositorio com o curso em video.
